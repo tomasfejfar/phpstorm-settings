@@ -32,7 +32,6 @@
     <option name="WHITESPACES" value="787878" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="f8f8f0" />
@@ -647,7 +646,6 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="800000" />
@@ -825,7 +823,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="273627" />
