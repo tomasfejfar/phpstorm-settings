@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Annotate">
-    <keyboard-shortcut first-keystroke="alt g" second-keystroke="a" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
