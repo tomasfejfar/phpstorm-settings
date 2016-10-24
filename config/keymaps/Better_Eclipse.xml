@@ -1,4 +1,4 @@
-<keymap version="1" name="Better Eclipse" parent="Eclipse">
+<keymap version="1" name="ImprovedEclipse" parent="Eclipse">
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
