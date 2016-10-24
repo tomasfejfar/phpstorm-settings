@@ -17,6 +17,7 @@
   <action id="DatabaseView.PropertiesAction">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Add" />
   <action id="DomElementsTreeView.AddElement" />
   <action id="EditorBackSpace">
@@ -86,6 +87,9 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="PerforceDirect.Edit" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
@@ -118,6 +122,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="Uml.ShowDiff" />
   <action id="UsageView.Include" />
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
