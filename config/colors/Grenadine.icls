@@ -1,7 +1,6 @@
 <scheme name="Grenadine" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -12,7 +11,7 @@
   </console-font>
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
-    <option name="ANNOTATIONS_COLOR" value="2b2b2b" />
+    <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
@@ -1439,6 +1438,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TAG_ATTR_KEY">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
